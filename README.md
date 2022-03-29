@@ -3,7 +3,7 @@ Projetos estudados e criados no ensino médio integrado ao técnico em desenvolv
 <h1 align="center"> 👋 sou a/o Ash!</>
 <h3 align="center">estudante de front e back-end (full-stack)</h3>
 
-⚡ **Sou boa em trabalho de equipe,e sempre estou buscando me aperfeiçoar**
+⚡ **Sou boa em trabalho de equipe, e sempre estou buscando me aperfeiçoar**
 
 <h3 align="left">Redes sociais:<h3>
 <p align="left">
