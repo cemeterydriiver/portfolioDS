@@ -1,7 +1,10 @@
 # portfolio_ads
 Projetos estudados e criados no ensino médio integrado ao técnico em desenvolvimento de sistemas (ADS) no Senai
-<h1 align="center"> 👋 sou Ash!
-<h6>Pronomes: ela/ele/elu</h6>
+<h1 align="center"> Oi👋 sou Ash!
+<h6>🏳️‍🌈Pronomes: ela/ele/elu</h6>  
+<h6>👨‍💻 Atualmente front-end dev/engineer</h6>
+<h6>📚 Estudando back-end</h6>
+<h6>🎓 Quero cursar: Software engineer + sistemas para web</h6>
 <h2 align="center">estudante de Ensino médio integrado em ADS</h2>
 <h3 align="left">Soft Skills:</h3> 
 <h5> - Organização;
