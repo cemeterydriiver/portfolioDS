@@ -1,7 +1,16 @@
 # portfolio_ads
 Projetos estudados e criados no ensino médio integrado ao técnico em desenvolvimento de sistemas (ADS) no Senai
-<h1 align="center"> 👋 sou Ash!</>
-<h3 align="center">estudante de Ensino médio integrado em ADS</h3>
+<h1 align="center"> 👋 sou Ash!
+<h6>Pronomes: ela/ele/elu</h6>
+<h2 align="center">estudante de Ensino médio integrado em ADS</h2>
+<h3 align="left">Soft Skills:</h3> 
+<h5> - Organização;
+<h5> - Praticidade;
+<h5> - Criatividade;
+<h5> - Trabalho em equipe;
+<h5> - Planejamento.
+
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cemeterydriiver&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
