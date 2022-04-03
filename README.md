@@ -21,17 +21,20 @@ _estudante de Ensino médio integrado em ADS_
 
 - Praticidade;
 
-- Criatividade;
+- **Criatividade;**
 
-- Trabalho em equipe;
+- **Trabalho em equipe;**
 
-- Planejamento;
+- **Planejamento;**
 
-- Liderança;
+- **Liderança;**
 
-- Perfeccionismo;
+- **Perfeccionismo;**
 
-- Raciocíonio lógico.
+- **Raciocíonio lógico.**
+
+
+
 
 
 <div align="center">
