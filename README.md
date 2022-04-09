@@ -18,9 +18,9 @@ _estudante de Ensino médio integrado em ADS_
     
 <h3 align="center">🤝🏻Soft Skills</h3> 
 
-- Organização;
+- **Organização;**
 
-- Praticidade;
+- **Praticidade;**
 
 - **Criatividade;**
 
