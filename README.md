@@ -50,7 +50,7 @@ _estudante de Ensino médio integrado em ADS_
 
 <h3 align="left">Redes sociais:<h3>
 <p align="left">
-<a href="https://twitter.com/cemeterydriiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cemeterydriiver" height="30" width="40" /></a>
+
 <a href="https://instagram.com/cemeterydriiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cemeterydriiver" height="30" width="40" /></a>
 </p>
  
