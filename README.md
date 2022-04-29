@@ -54,7 +54,7 @@ _estudante de Ensino médio integrado em ADS_
 <a href="https://instagram.com/cemeterydriiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cemeterydriiver" height="30" width="40" /></a>
 </p>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/cemeterydriiver/cemeterydriiver/blob/output/github-contribution-grid-snake.svg)
 
   
   
