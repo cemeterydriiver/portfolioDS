@@ -32,7 +32,9 @@ _estudante de Ensino médio integrado em ADS_
 
 - **Perfeccionismo;**
 
-- **Raciocíonio lógico.**
+- **Raciocíonio lógico;**
+
+- **Proatividade.**
 
 
 
