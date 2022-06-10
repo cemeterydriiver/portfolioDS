@@ -1,0 +1,152 @@
+#define BUZZER 8         
+void setup() 
+{
+    pinMode(BUZZER,OUTPUT); 
+}
+void loop() 
+{
+
+    //PRIMEIRA PARTE
+    w3e
+    tone(BUZZER,261);       
+    delay(500);             
+    
+    noTone(BUZZER);         
+    tone(BUZZER,293);      
+    delay(500);    
+    
+    noTone(BUZZER);         
+    tone(BUZZER,329);      
+    
+    noTone(BUZZER);     
+    tone(BUZZER,349);       
+    delay(500);  
+
+
+    tone(BUZZER,349);       
+    delay(300);    
+    noTone(BUZZER); 
+    delay(300);  
+
+    tone(BUZZER,349);      
+    delay(300);    
+    noTone(BUZZER); 
+    delay(300);  
+ 
+      
+      
+    tone(BUZZER,349);       
+    delay(300);    
+    noTone(BUZZER); 
+    delay(300);  
+    delay(500); 
+
+    //SEGUNDA PARTE
+    
+     tone(BUZZER,261);      
+    delay(500);             
+
+    noTone(BUZZER);         
+    tone(BUZZER,293);      
+    delay(500);    
+
+     tone(BUZZER,261);      
+    delay(500);           
+    
+    noTone(BUZZER);        
+    tone(BUZZER,293);      
+    delay(500);    
+
+  
+    tone(BUZZER,293);      
+    delay(300);    
+    noTone(BUZZER); 
+    delay(300);  
+
+    tone(BUZZER,293);      
+    delay(300);    
+    noTone(BUZZER); 
+    delay(300);  
+ 
+    tone(BUZZER,293);      
+    delay(300);    
+    noTone(BUZZER); 
+    delay(300); 
+     delay(1000);
+
+     //TERCEIRA PARTE
+     
+      tone(BUZZER,261);      
+    delay(500);           
+    noTone(BUZZER);  
+    
+    tone(BUZZER,392);     
+    delay(500);
+    noTone(BUZZER); 
+
+     noTone(BUZZER);     
+    tone(BUZZER,349);      
+    delay(500);    
+    noTone(BUZZER); 
+
+     noTone(BUZZER);        
+    tone(BUZZER,329);      
+    delay(500);
+
+
+     tone(BUZZER,329);     
+    delay(300);    
+    noTone(BUZZER); 
+    delay(300);  
+ 
+    tone(BUZZER,329);       
+    delay(300);    
+    noTone(BUZZER); 
+    delay(300); 
+
+    tone(BUZZER,329);      
+    delay(300);    
+    noTone(BUZZER); 
+    delay(300);                                                 
+    
+     delay(1000);
+
+
+
+  //ultima parte
+     
+    tone(BUZZER,261);       
+    delay(500);            
+    
+    noTone(BUZZER);        
+    tone(BUZZER,293);      
+    delay(500);    
+    
+    noTone(BUZZER);         
+    tone(BUZZER,329);      
+    
+    noTone(BUZZER);     
+    tone(BUZZER,349);       
+    delay(500);  
+
+
+    tone(BUZZER,349);      
+    delay(300);    
+    noTone(BUZZER); 
+    delay(300);  
+
+    tone(BUZZER,349);    
+    delay(300);    
+    noTone(BUZZER); 
+    delay(300);  
+ 
+      
+      
+    tone(BUZZER,349);       
+    delay(300);    
+    noTone(BUZZER); 
+    delay(300);  
+    delay(500); 
+
+    
+}
