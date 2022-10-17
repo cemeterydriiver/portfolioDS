@@ -1,0 +1,25 @@
+private void btnCadastraActionPerformed(java.awt.event.ActionEvent evt) {                                            
+        cadastraAluno();
+    }                                           
+
+    private void btnListaActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        String alunos = "Alunos\n";
+        for (Aluno a : lista) {
+            alunos += "\n______\nnome: "+a.getNome()+"\nCPF: "+a.getCpf()+"\nMatrícula: "+a.getMatricula()+
+                    "\nIdade: "+a.getIdade();
+        }
+        JOptionPane.showMessageDialog(this, alunos);
+    }                                        
+    public void cadastraAluno() {
+        String nome = campoNome.getText();
+        int idade = Integer.parseInt(campoIdade.getText());
+        String cpf = campoCpf.getText();
+        String matricula = campoMatricula.getText();
+        Aluno a = new Aluno(matricula, nome, idade, cpf);
+        lista.add(a);
+        JOptionPane.showMessageDialog(this,"Aluno cadastrado com sucesso!");
+        campoNome.setText("");
+        campoIdade.setText("");
+        campoCpf.setText("");
+        campoMatricula.setText("");
+    }
