@@ -8,9 +8,9 @@ _estudante de Ensino médio integrado em ADS_
 
 
 
->_👨‍💻 Atualmente front e back-end dev_
+>_👨‍💻 Atualmente: dev back-end (me arrisco no front às vezes)_
 
->_📚 Sempre estudando novas técnologias_
+>_📚 Estudando: data science e machine/deep learning_
 _
     
 <h3 align="center">🤝🏻Soft Skills</h3> 
