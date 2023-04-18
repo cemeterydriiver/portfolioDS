@@ -1,0 +1,2 @@
+## Por que escolhi essa atividade?
+> Escolhi essa atividade pois é uma atividade decorrente ao projeto "caluladora de horas", no qual eu gostei de fazer e, sucessivamente gostei também dessa atividade. Identificar os erros no código e definir testes para ele era algo que eu não via tanta importância (pois realizava os testes conforme codificava), mas, essa atividade (e outras produzidas) me mostraram a importância de uma boa organização na hora de definir e realizar testes para o sistema produzido.
