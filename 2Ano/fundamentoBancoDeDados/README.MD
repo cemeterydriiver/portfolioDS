@@ -38,9 +38,8 @@ CREATE TABLE vendedor(
 );
 ```
 
-[Universidade]()
 
-[Universidade.png.pdf](https://github.com/cemeterydriiver/portfolioDS/files/11305121/Universidade.png.pdf)
+[Universidade](https://github.com/cemeterydriiver/portfolioDS/files/11305121/Universidade.png.pdf)
 
 
 
