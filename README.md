@@ -11,7 +11,7 @@ _estudante de Ensino médio integrado em DS_
 >_👨‍💻 Atualmente: dev back-end (me arrisco no front às vezes)_
 
 >_📚 Estudando: data science e machine/deep learning_
-_
+
     
 <h3 align="center">🤝🏻Soft Skills</h3> 
 
