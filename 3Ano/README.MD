@@ -1,0 +1,16 @@
+# __🗄️Terceiro ano__
+## __📁Matérias__
+## __📁Autorias__
+
+_________________         
+> #### 📁Matérias
+> - [📚Banco de dados](https://github.com/cemeterydriiver/portfolioDS/tree/main/3Ano/bancoDeDados)
+>
+> - [📚Diagrama de clases](https://github.com/cemeterydriiver/portfolioDS/tree/main/3Ano/diagramaClasses)
+>
+> - [📚Programação de aplicativos](https://github.com/cemeterydriiver/portfolioDS/tree/main/3Ano/progDeApp)
+>
+> - [📚Teste de sistema](https://github.com/cemeterydriiver/portfolioDS/tree/main/3Ano/testeDeSistema)
+_________________         
+> #### 📁Autorias
+> - [✍️Primeiro trimestre](https://github.com/cemeterydriiver/portfolioDS/tree/main/3Ano/autorias/1Trimestre)
