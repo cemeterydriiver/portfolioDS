@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://github.com/cemeterydriiver">
-     <a href="https://github.com/cemeterydriiver/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Ashlyn&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    < Ashlyn Iero/></a>
 </p>
 
 <p align="center">
@@ -78,3 +77,13 @@ const Ash = {
 >__[Segundo ano](https://github.com/cemeterydriiver/portfolioDS/tree/main/2Ano)__
 >
 >__[Terceiro ano](https://github.com/cemeterydriiver/portfolioDS/tree/main/3Ano)__
+> - Matérias
+>   - [📚Banco de dados](https://github.com/cemeterydriiver/portfolioDS/tree/main/3Ano/bancoDeDados)
+>
+>   - [📚Diagrama de clases](https://github.com/cemeterydriiver/portfolioDS/tree/main/3Ano/diagramaClasses)
+>
+>   - [📚Programação de aplicativos](https://github.com/cemeterydriiver/portfolioDS/tree/main/3Ano/progDeApp)
+>
+>   - [📚Teste de sistema](https://github.com/cemeterydriiver/portfolioDS/tree/main/3Ano/testeDeSistema)       
+> - Autorias
+>   - [✍️Primeiro trimestre](https://github.com/cemeterydriiver/portfolioDS/tree/main/3Ano/autorias/1Trimestre)
