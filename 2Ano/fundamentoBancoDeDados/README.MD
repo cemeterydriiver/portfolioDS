@@ -6,9 +6,9 @@ Aqui você encontrará algumas atividades sobre fundamentos de banco de dados, r
 
 ## Atividades
 
-- [Diagrama](https://github.com/cemeterydriiver/portfolioDS/blob/main/2Ano/fundamentoBancoDeDados/Diagrama%20sem%20nome.drawio)
+- __[Diagrama](https://github.com/cemeterydriiver/portfolioDS/blob/main/2Ano/fundamentoBancoDeDados/Diagrama%20sem%20nome.drawio)__
 
-- [Sql Lite](https://github.com/cemeterydriiver/portfolioDS/blob/main/2Ano/fundamentoBancoDeDados/dump.sqlite%20(1).sql):
+- __[Sql Lite](https://github.com/cemeterydriiver/portfolioDS/blob/main/2Ano/fundamentoBancoDeDados/dump.sqlite%20(1).sql):__
 
 ```Sql
     CREATE TABLE cliente(
@@ -39,7 +39,7 @@ CREATE TABLE vendedor(
 ```
 
 
-[Universidade](https://github.com/cemeterydriiver/portfolioDS/files/11305121/Universidade.png.pdf)
+- __[Universidade](https://github.com/cemeterydriiver/portfolioDS/files/11305121/Universidade.png.pdf)__
 
 
 
