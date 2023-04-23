@@ -10,15 +10,16 @@ _Esta autoria é composta por um diagrama de atividades e um teste de sistema._
 # 📝 __Testes de sistema:__
 
 ## ✍️ __Nome do teste:__ 
-> Verificar geração de QR Code a partir de texto ou URL.
+> __Verificar geração de QR Code a partir de texto ou URL.__
 
 ## 🎯 __Objetivo:__ 
-> Verificar se a aplicação é capaz de gerar corretamente um QR Code a partir de um texto ou URL fornecido pelo usuário.
+> __Verificar se a aplicação é capaz de gerar corretamente um QR Code a partir de um texto ou URL fornecido pelo usuário.__
 
 ## ⚠️ __Pré-condições:__
 
-> - A aplicação QRCode está instalada e funcionando corretamente;
-> - O dispositivo utilizado possui câmera para leitura de QR Code.
+> __1. A aplicação QRCode está instalada e funcionando corretamente;__
+
+> __2. O dispositivo utilizado possui câmera para leitura de QR Code.__
 
 ### 👣 __Passos:__
 
