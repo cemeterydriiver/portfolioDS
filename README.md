@@ -1,8 +1,9 @@
-<p align="center">
-  <a href="https://github.com/cemeterydriiver">
-    < Ashlyn Iero/></a>
-</p>
 
+<p align="center">
+
+  <a href="https://github.com/cemeterydriiver/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ashlyn%20Iero&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 <p align="center">
 
   <a href="https://github.com/cemeterydriiver/readme-typing-svg">
