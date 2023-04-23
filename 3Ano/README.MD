@@ -1,6 +1,4 @@
 # __🗄️Terceiro ano__
-## __📁Matérias__
-## __📁Autorias__
 
 _________________         
 > #### 📁Matérias
