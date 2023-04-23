@@ -1,6 +1,4 @@
 # __🗄️Segundo ano__
-## __📁Matérias__
-
 _________________        
 > #### 📁Matérias
 > - [📚Fundamentos de banco de dados](https://github.com/cemeterydriiver/portfolioDS/tree/main/2Ano/fundamentoBancoDeDados)
