@@ -6,7 +6,7 @@ _________________
 >
 > - [📚Diagrama de clases](https://github.com/cemeterydriiver/portfolioDS/blob/main/3Ano/diagramaClasses/diagramaClases.md)
 >
-> - [📚Programação de aplicativos](https://github.com/cemeterydriiver/portfolioDS/tree/main/3Ano/progDeApp)
+> - [📚Programação de aplicativos](https://github.com/cemeterydriiver/portfolioDS/blob/main/3Ano/progDeApp/README.MD)
 >
 > - [📚Teste de sistema](https://github.com/cemeterydriiver/portfolioDS/tree/main/3Ano/testeDeSistema)
 _________________         
