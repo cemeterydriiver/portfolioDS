@@ -7,8 +7,8 @@ _________________
 >
 > - [📚Fundamentos de redes](https://github.com/cemeterydriiver/portfolioDS/tree/main/2Ano/fundamentosDeRede)
 >
-> - [📚Fundamentos de TI](https://github.com/cemeterydriiver/portfolioDS/tree/main/2Ano/fundamentosDeTI)
+> - [📚Fundamentos de TI](https://github.com/cemeterydriiver/portfolioDS/blob/main/2Ano/fundamentosDeTI/fundTI.md)
 >
-> - [📚Lógica computacional](https://github.com/cemeterydriiver/portfolioDS/tree/main/2Ano/logicaComputacional)
+> - [📚Lógica computacional](https://github.com/cemeterydriiver/portfolioDS/blob/main/2Ano/logicaComputacional/lc.md)
 >
-> - [📚Lógica de programação](https://github.com/cemeterydriiver/portfolioDS/tree/main/2Ano/logicaDeProgramacao)    
+> - [📚Lógica de programação](https://github.com/cemeterydriiver/portfolioDS/blob/main/2Ano/logicaDeProgramacao/lp.md)    
