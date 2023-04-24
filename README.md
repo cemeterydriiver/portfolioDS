@@ -1,4 +1,3 @@
-
 <p align="center">
 
   <a href="https://github.com/cemeterydriiver/readme-typing-svg">
@@ -17,30 +16,32 @@
   <a href="https://discord.com/channels/@me" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-<div align="center">
-  <details>
-    <summary><b>👨‍💻Conhecimentos</b></summary>
-    <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="js" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="java" src="https://img.shields.io/badge/-Java-D35400?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="MySql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="raspbery" src="https://img.shields.io/badge/-Raspberry-A22846?style=flat-square&logo=RaspberryPi&logoColor=white" />
-  <img alt="wordpress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white" />
-  <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
-  <img alt=".net" src="https://img.shields.io/badge/-.net-512BD4?style=flat-square&logo=.NET&logoColor=white" />
-</p>
-  </details>
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+```js
+import Desenvolvedor from 'cemeterydriiver';
+
+class SobreMim extends Desenvolvedor {
+  nome     = 'Ashlyn Iero';
+  area    = 'Back-end e data science';
+  escola  = 'Sesi/Senai';
+  curso = 'Último ano do técnico em desenvolvimento de sistemas,
+           junto ao 3 ano do ensino médio';
+}
+
+class Skills extends Desenvolvedor {
+  linguagens  = ['Java', 'Python', 'Java Script'];
+  bibliotecas  = ['Pandas', 'NumPy', 'SciPy', 'TensorFlow', 'Scikit-Learn'
+                 ,'MatplotLib', 'Keras'];
+  frameworks = ['React', 'Vue', 'Fastify', 'Express'];
+  api = ['PostMan'];
+  devOps = ['Docker'];
+  dataBases = ['Mongo', 'MySql', 'FireBase', 'PostGree'];
+}
+```
+
+
+---
 
 > ## __📂Sumário:__
 > - Sobre mim
