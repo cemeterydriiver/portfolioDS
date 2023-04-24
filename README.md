@@ -49,32 +49,7 @@ class Skills extends Desenvolvedor {
 >   - Atividades
 >   - Autorias
 ---
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Um pouco sobre mim...**
 
-```javascript
-const Ash = {
-    pronomes: "Ele" | "Ela" | "Elu",
-    code: ["Javascript", "Python", "Java"],
-    mePergunteSobre: ["web dev", "tech", "app dev", "photography", "Data Science"],
-    technologias: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express", "Nodemon"],
-            API: ["PostMan"],
-            Python: ["Pandas", "TensorFlow", "Numpy", "Keras"]
-        },
-        mobileApp: {
-            Java: ["Android Studio"],
-            Native: ["React", "Vue"]
-        },
-        devOps: ["Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite", "FireBase", "PostGree"]
-    },
-    arquitetura: ["Arquitetura com servidor", "Arquitetura sem servidor",  "Progressive web applications", "Single page applications", "Aplicações mobile"],
-    currentFocus: "Data science e machile learning",
-    funFact: "Existem duas maneiras de escrever programas sem erros; só a terceira funciona"
-};
-```
----
 ### __📝Anos:__ 
 >__[Segundo ano](https://github.com/cemeterydriiver/portfolioDS/tree/main/2Ano)__
 >- Matérias
