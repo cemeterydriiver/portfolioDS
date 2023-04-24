@@ -2,7 +2,7 @@
 
 _________________         
 > #### 📁Matérias
-> - [📚Banco de dados](https://github.com/cemeterydriiver/portfolioDS/tree/main/3Ano/bancoDeDados)
+> - [📚Banco de dados](https://github.com/cemeterydriiver/portfolioDS/blob/main/3Ano/bancoDeDados/bancoDados.md)
 >
 > - [📚Diagrama de clases](https://github.com/cemeterydriiver/portfolioDS/tree/main/3Ano/diagramaClasses)
 >
