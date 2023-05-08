@@ -1,5 +1,5 @@
 # __Autoria segundo trimestre do terceiro ano__
-_Esta autoria é composta por tabelas e códigos SQL, que estão sendo passados da 1FN até a 2FN._
+_Esta autoria é composta por tabelas e códigos SQL, que estão sendo passadas da 1FN até a 2FN._
 > Base de dados utilizada como exemplo: [CLIQUE AQUI](https://www.kaggle.com/datasets/chaditya95/epileptic-seizures-dataset).
 
 
@@ -57,7 +57,7 @@ __Pasando para a 3FN:__
 | 1000        | 1 |
 | 1001        | 1 |
 | 1002        | 1 |
-| ...         | ... |
+
 
 **Tabela Sinal EEG**
 
@@ -66,7 +66,7 @@ __Pasando para a 3FN:__
 | 1        | 0.05198 | 0.26296 | 0.26296 | 0.31197 | 0.24468 | 0.22652 | 0.21526 |
 | 2        | 0.77589 | 0.60087 | 0.42218 | 0.18650 | 0.07859 | 0.00101 | -0.08016 |
 | 3        | 0.03725 | 0.07345 | 0.06928 | 0.06313 | 0.05626 | 0.06150 | 0.05751 |
-| ...      | ...     | ...     | ...     | ...     | ...     | ...     | ...     |
+
 
 **Tabela Sinais Paciente**
 
@@ -75,7 +75,58 @@ __Pasando para a 3FN:__
 | 1000        | 1        |
 | 1000        | 2        |
 | 1000        | 3        |
-| ...         | ...      |
+
+
+__Código SQL:__
+
+
+```
+-- Criar tabela Paciente
+CREATE TABLE Paciente (
+    ID_Paciente INT PRIMARY KEY,
+    y INT NOT NULL
+);
+
+-- Inserir registro na tabela Paciente
+INSERT INTO Paciente (ID_Paciente, y) VALUES (1000, 1);
+
+-- Criar tabela Tipo_Epilepsia
+CREATE TABLE Tipo_Epilepsia (
+    ID_Tipo_Epilepsia INT PRIMARY KEY,
+    Descricao VARCHAR(50) NOT NULL
+);
+
+-- Inserir registro na tabela Tipo_Epilepsia
+INSERT INTO Tipo_Epilepsia (ID_Tipo_Epilepsia, Descricao) VALUES (1, 'Epilepsia do Lobo Temporal');
+
+-- Criar tabela Sinal_EEG
+CREATE TABLE Sinal_EEG (
+    ID_Sinal INT PRIMARY KEY,
+    X1 FLOAT NOT NULL,
+    X2 FLOAT NOT NULL,
+    X3 FLOAT NOT NULL,
+    X4 FLOAT NOT NULL,
+    X5 FLOAT NOT NULL,
+    X6 FLOAT NOT NULL,
+    X7 FLOAT NOT NULL
+);
+
+-- Inserir registro na tabela Sinal_EEG
+INSERT INTO Sinal_EEG (ID_Sinal, X1, X2, X3, X4, X5, X6, X7) 
+VALUES (1, 0.05198, 0.26296, 0.26296, 0.31197, 0.24468, 0.22652, 0.21526);
+
+-- Criar tabela Sinais_Paciente
+CREATE TABLE Sinais_Paciente (
+    ID_Paciente INT,
+    ID_Sinal INT,
+    PRIMARY KEY (ID_Paciente, ID_Sinal),
+    FOREIGN KEY (ID_Paciente) REFERENCES Paciente(ID_Paciente),
+    FOREIGN KEY (ID_Sinal) REFERENCES Sinal_EEG(ID_Sinal)
+);
+
+-- Inserir registro na tabela Sinais_Paciente
+INSERT INTO Sinais_Paciente (ID_Paciente, ID_Sinal) VALUES (1000, 1);
+```
 
 
 
