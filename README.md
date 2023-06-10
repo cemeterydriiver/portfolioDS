@@ -14,7 +14,7 @@ import Desenvolvedor from 'cemeterydriiver';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Ashlyn Iero';
-  area    = 'Back-end e data science';
+  area    = 'Back-end';
   escola  = 'Sesi/Senai';
   curso = 'Último ano do técnico em desenvolvimento de sistemas,
            junto ao 3 ano do ensino médio';
