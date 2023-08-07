@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Hero</title>
+    <link rel = "stylesheet" href = "main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    
+    <div class = "main-wrapper">
+        <div class = "app">
+           
+            <div class = "app-header">
+                <h2 class = "app-header-title">Google<span>Hero.</span></h2>
+                <form class = "app-header-search">
+                    <input type = "text" class = "form-control" placeholder="Pesquise o super-herói aqui ..." name = "search">
+                    <button type = "submit" class = "search-btn">
+                        <i class = "fas fa-search"></i>
+                    </button>
+                    <div class = "search-list" id = "search-list">
+                        <!-- <div class = "search-list-item">
+                            <img src = "images/danilo.png" alt = "">
+                            <p>Danilo</p>
+                        </div> -->
+                    </div>
+                </form>
+            </div>
+            
+
+            <div class = "app-body">
+                <div class = "app-body-content">
+                    
+                    <div class = "app-body-content-thumbnail">
+                        <img src = "images/danilo.png">
+                    </div>
+                    
+                    
+                    <div class = "app-body-content-list">
+                        <div class = "name">Danilo</div>
+
+                        
+                        <div class = "app-body-tabs-head">
+                            <button type = "button" class = "tab-head-single" data-id = "1">
+                                <span>Status</span>
+                            </button>
+                            <button type = "button" class = "tab-head-single" data-id = "2">
+                                <span>Biografia</span>
+                            </button>
+                            <button type = "button" class = "tab-head-single" data-id = "3">
+                                <span>Aparência</span>
+                            </button>
+                            <button type = "button" class = "tab-head-single" data-id = "4">
+                                <span>Conexões</span>
+                            </button>
+                        </div>
+                       
+                        <div class = "app-body-tabs-body">
+                            
+                            <ul class = "tab-body-single powerstats">
+                                <li>
+                                    <div>
+                                        <i class = "fa-solid fa-shield-halved"></i>
+                                        <span>Inteligência</span>
+                                    </div>
+                                    <span>100</span>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class = "fa-solid fa-shield-halved"></i>
+                                        <span>Força</span>
+                                    </div>
+                                    <span>100</span>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class = "fa-solid fa-shield-halved"></i>
+                                        <span>Velocidade</span>
+                                    </div>
+                                    <span>100</span>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class = "fa-solid fa-shield-halved"></i>
+                                        <span>Durabilidade</span>
+                                    </div>
+                                    <span>100</span>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class = "fa-solid fa-shield-halved"></i>
+                                        <span>Poder</span>
+                                    </div>
+                                    <span>100</span>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class = "fa-solid fa-shield-halved"></i>
+                                        <span>Combate</span>
+                                    </div>
+                                    <span>100</span>
+                                </li>
+                            </ul>
+                            
+                            <ul class = "tab-body-single biography">
+                                <li>
+                                    <span>Nome completo</span>
+                                    <span>Danilo JavaScript</span>
+                                </li>
+                                <li>
+                                    <span>Alter egos</span>
+                                    <span>Olinad</span>
+                                </li>
+                                <li>
+                                    <span>Apelido</span>
+                                    <span>Dan dan</span>
+                                </li>
+                                <li>
+                                    <span>Local de nascimento</span>
+                                    <span>Desconhecido</span>
+                                </li>
+                                <li>
+                                    <span>Primeira aparição</span>
+                                    <span>Sesi/Senai São José em 2023</span>
+                                </li>
+                                <li>
+                                    <span>Editora</span>
+                                    <span>Desconhecida</span>
+                                </li>
+                            </ul>
+                            
+                            <ul class = "tab-body-single appearance">
+                                <li>
+                                    <span>
+                                        <i class = "fas fa-star"></i> Gênero
+                                    </span>
+                                    <span>Homem</span>
+                                </li>
+                                <li>
+                                    <span>
+                                        <i class = "fas fa-star"></i> Raça
+                                    </span>
+                                    <span>Negra</span>
+                                </li>
+                                <li>
+                                    <span>
+                                        <i class = "fas fa-star"></i> Altura
+                                    </span>
+                                    <span>Desconhecida</span>
+                                </li>
+                                <li>
+                                    <span>
+                                        <i class = "fas fa-star"></i> peso
+                                    </span>
+                                    <span>Desconhecido</span>
+                                </li>
+                                <li>
+                                    <span>
+                                        <i class = "fas fa-star"></i> Cor do olho
+                                    </span>
+                                    <span>Marrom</span>
+                                </li>
+                                <li>
+                                    <span>
+                                        <i class = "fas fa-star"></i> Cor do cabelo
+                                    </span>
+                                    <span>Preto</span>
+                                </li>
+                            </ul>
+                            
+                            <ul class = "tab-body-single connections">
+                                <li>
+                                    <span>Grupos afiliados</span>
+                                    <span>Professores de desenvolvimento de sistemas</span>
+                                </li>
+                                <li>
+                                    <span>Parentes</span>
+                                    <span>Desconhecidos</span>
+                                </li>
+                            </ul>
+                            
+                        </div>
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+    <script src = "app.js"></script>
+</body>
+</html>
