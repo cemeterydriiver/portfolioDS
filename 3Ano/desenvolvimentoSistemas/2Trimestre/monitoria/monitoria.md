@@ -1,4 +1,4 @@
-## Códigos feitos para a atividae de escolha de monitor
+## Códigos feitos para a atividade de escolha de monitor
 
 ## Por que escolhi essa atividade?
 > Escolhi essa atividade pois foi legal realizar os desafios propostos.
